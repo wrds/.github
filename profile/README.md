@@ -1,6 +1,6 @@
 # Wharton Research Data Services GitHub Organization
 
-This is our home on GitHub. Here are brief instructions on how to join:
+This is WRDS' GitHub organization home. Here are brief instructions on how to join:
 
 * Make sure you already have a GitHub account. You can use your personal account; authenticating with PennKey will make your account a members of the WRDS organization.
 * All members of the upenn GitHub organization are required to have two-factor authentication enabled on their GitHub accounts.
